@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">账户充值</string>
+    <string-array name="carnum">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+
+
+    </string-array>
+</resources>
